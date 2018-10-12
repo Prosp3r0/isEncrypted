@@ -1,3 +1,7 @@
+# About
+
+This module could determine whether the Mach-O file packed or unpacked.
+
 # Install  
 
 1. This module supports Python 3.X

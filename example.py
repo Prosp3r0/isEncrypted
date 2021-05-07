@@ -1,7 +1,6 @@
 from isEncrypted.isEncripted import isPacked
 import os
 
-macho_file = 'example_ipas/WeiboHDPro'
 ipa_path = 'example_ipas/aa.ipa'
 
 # please input either ipa file or mach-o file.
